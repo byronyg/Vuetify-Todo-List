@@ -1,4 +1,4 @@
-# myapp
+# Vuetify Todo App
 
 ## Project setup
 ```
